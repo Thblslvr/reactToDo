@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+ol{
+    margin: 0 auto;
+    display: block;
+    border: 1px solid #000;
+    width: 500px;
+    height: 400px;
+    overflow: auto;
+    margin-bottom: 40px;
+}
+
+input {
+    width: 500px;
+    display: inline-block;
+    margin-left: 520px;
+    margin-right: 20px;
+}
